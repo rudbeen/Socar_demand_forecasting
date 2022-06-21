@@ -40,7 +40,7 @@
 
 ### 프로세스
 
-![image](https://user-images.githubusercontent.com/59243727/172442797-324596df-dc00-4411-8deb-5524740a161e.png)
+<img width="3194" alt="Untitled (2)" src="https://user-images.githubusercontent.com/96718939/174756583-afeb3629-ef42-4573-83a1-658c9f907623.png">
 
 
 ## 2. 프로젝트 내용
